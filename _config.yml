@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "메타버스 개발자 Chloe"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "Chloe Min"
 description              : "An amazing website."
 url                      : "https://minichloee.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
